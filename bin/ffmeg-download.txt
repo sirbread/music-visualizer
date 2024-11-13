@@ -1,0 +1,6 @@
+Download the supported ffmpeg.exe here:
+https://drive.google.com/file/d/1HLttOOl39Ltp0yssI3LD8LxFylzttlPK/view?usp=sharing
+
+After you download, move it here, in the same directory as this txt, and rename (if needed) to ffmpeg.exe. (music-visualizer/bin/ffmpeg.exe)
+
+If you do not trust me, that's fine. Download ffmpeg.exe off the ffmpeg website. I don't know if that version would work; the provided version is ~2 years older and I haven't tested the newer versions. 
