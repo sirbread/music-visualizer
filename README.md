@@ -1,6 +1,6 @@
 # music-visualizer
 
-A music visualizer application built with Python that has a lot of differnet visual effects to images or videos based on audio input. The visualizer allows you to input an image or video file, an audio file, and output a video file that syncs effects with the audio. Uses spectograms and sine effects. These can be tweaked to your liking. (i.e. number/color of spectogram bars, noise bands, pixel sorting, etc)
+A music visualizer application built with Python that has a many different visual effects to images or videos based on audio input. The visualizer allows you to input an image or video file, an audio file, and output a video file that syncs effects with the audio. Uses spectograms, zoom, and noise effects. These can be tweaked to your liking. (i.e. number/color of spectogram bars, noise bands, pixel sorting, etc)
 
 ## Features
 
