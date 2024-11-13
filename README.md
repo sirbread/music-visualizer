@@ -54,3 +54,4 @@ The application will save the input paths for each session in `save.json` and wi
 - `Pillow`
 
 ## "gib star pls"
+Check out the showcases before you run :)
