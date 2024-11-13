@@ -47,11 +47,14 @@ The application will save the input paths for each session in `save.json` and wi
 
 ## Requirements
 
-- `Python 3.8+`
+- `Python 3.11+`
 - `PySimpleGUI`
 - `numpy`
 - `matplotlib`
 - `Pillow`
+- `moviepy`
+- `scripy`
+- `pydub`
 
 ## "gib star pls"
-Check out the showcases before you run :)
+Check out the showcases if you want before you run :)
