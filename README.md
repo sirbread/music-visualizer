@@ -4,14 +4,16 @@ A music visualizer application built with Python that has a many different visua
 
 ## Features
 
-- **Image and Video Input**: Accepts various image and video formats (e.g., JPEG, PNG, MP4, MKV) for the background plaster.
-- **Audio Input**: Accepts audio formats like MP3, WAV, and FLAC for the background music.
-- **Effects**: Applies customizable effects to the visuals, including:
-  - **Sine Wave Distortion**: Shifts rows in the image based on a sine wave.
-  - **Chromatic Aberration**: Adds a horizontal offset effect to color channels.
-  - **Noise Bands**: Adds bands of noise across the image for a glitchy effect.
-  - **Pixel Sort**: Sorts pixels horizontally based on their luminance.
-  - **Zoom Effect**: Adds a zoom in/out effect centered on the image.
+- Uses librosa to filter and process the audio in order to translate the beats and sounds into visual effect intensity.
+- The animation was specifically designed to work well out-of-the-box for most types of music, no tweaking needed.
+- Accepts various image and video formats (e.g., JPEG, PNG, MP4, MKV) for the background plaster.
+- Accepts audio formats like MP3, WAV, and FLAC for the background music.
+- Uses different effects for different frequencies to create more dynamic and responsive animations, like:
+  - Sine Wave Distortion: Shifts rows in the image based on a sine wave.
+  - Chromatic Aberration: Adds a horizontal offset effect to color channels.
+  - Noise Bands: Adds bands of noise across the image for a glitchy effect.
+  - Pixel Sort: Sorts pixels horizontally based on their luminance.
+  - Zoom Effect: Adds a zoom in/out effect centered on the image.
 
 ## Installation
 
